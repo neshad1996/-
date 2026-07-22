@@ -5,7 +5,7 @@ export const profile = {
   title: "Experimental Nuclear Physics • Nuclear Astrophysics • Neutrino Physics",
   subtitle: [
     "I am a Ph.D. candidate in Experimental Nuclear Physics at Michigan State University, based at the Facility for Rare Isotope Beams, and a former visiting scholar at the University of Oslo. I earned both my M.Sc. in Physics and a Graduate Certificate in Instrumentation for High Energy Physics from Michigan State University, and I received my B.Sc. (Honours) in Physics (First Class) from the University of Peradeniya.",
-    "My research is centered on experimental nuclear physics and its applications to both nuclear astrophysics and neutrino physics. I use precision measurements and modern detector techniques to constrain the nuclear data needed to model how elements are synthesized in astrophysical environments and to improve predictions for neutrino–nucleus interactions relevant to laboratory and cosmic settings."
+    "My research is centered on experimental nuclear physics and its applications to nuclear structure, nuclear astrophysics and neutrino physics. I use precision measurements and modern detector techniques to constrain the nuclear structure data needed to model how elements are synthesized in astrophysical environments and to improve predictions for neutrino–nucleus interactions relevant to laboratory and cosmic settings."
   ],
   email: "devanes1@msu.edu",
   /*phone: "+1 (517) 974-7964",*/
@@ -87,6 +87,100 @@ export const socialLinks = [
 // News / Updates (LinkedIn-style posts) — curated from news.txt
 // Tip: keep images in /public/images/news/ and set image: "/images/news/<file>.jpg"
 export const news = [
+    {
+    id: "news-2026-06-29-frib-theory-alliance-invited-talk",
+    date: "2026-06-29",
+    title: "Invited talk at the FRIB Theory Alliance Topical Program",
+    summary:
+      "Presented an invited talk at the FRIB Theory Alliance Topical Program, “Statistical Nuclear Properties in the AI/ML Era: Advances, Challenges, and Synergies for FRIB Science,” held at FRIB from June 29 to July 10, 2026.",
+    images: ["/images/news/FRIBTheoryAlliance2026.jpg"],
+    details: [
+      "Delivered an invited presentation titled “Development of the Charge-Exchange Oslo Method for Experiments with Stable and Unstable Beams.”",
+      "Discussed the development of the CE-Oslo method, its applications with stable and rare-isotope beams, and its potential for future experiments at FRIB and other facilities.",
+      "The two-week program brought together experimentalists, theorists, and experts in statistical and data-driven methods from around the world.",
+      "Scientific discussions covered nuclear level densities, γ-ray strength functions, nuclear structure, reaction modeling, nuclear astrophysics, uncertainty quantification, and applications of artificial intelligence and machine learning.",
+      "Contributed to discussions connecting emerging experimental capabilities with theoretical developments and modern AI/ML approaches.",
+      "The program initiated a collaborative review article addressing key challenges, benchmarking efforts, scientific opportunities, and future directions for determining statistical nuclear properties.",
+      "Sincere thanks to the organizers and the FRIB Theory Alliance for the invitation and for organizing such a productive and forward-looking program.",
+      "Deeply grateful to my Ph.D. supervisor, collaborators, colleagues, mentors, friends, and family for their continued guidance, contributions, and encouragement."
+    ],
+    links: []
+  },  
+  
+  {
+    id: "news-2026-06-14-cgs18-invited-talk",
+    date: "2026-06-14",
+    title: "First invited plenary talk at CGS18",
+    summary:
+      "Reached a major milestone in my academic journey by delivering my first invited talk at the 18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS18), held at Monterey, California, from May 14–219, 2026, where I was honored to be the only student invited to give a plenary presentation.",
+    images: ["/images/news/CGS18InvitedTalk.jpg"],
+    details: [
+      "Presented the newly developed Charge-Exchange Oslo (CE-Oslo) method, its applications across different experimental configurations, and plans for future measurements.",
+      "The presentation brought together results and perspectives from four nuclear physics experiments conducted at three world-leading facilities: FRIB, the Oslo Cyclotron Laboratory, and RCNP.",
+      "Shared this research with an international audience of leading scientists and participated in valuable discussions about the continued development and future applications of the CE-Oslo method.",
+      "The thoughtful questions, scientific feedback, and conversations provided valuable perspectives that will help strengthen our ongoing and future research.",
+      "Sincere thanks to the CGS18 organizers for the invitation, this important career opportunity, and an exceptionally memorable conference.",
+      "Especially grateful to my Ph.D. supervisor for the trust, continued guidance, encouragement, and travel support that made my participation possible.",
+      "Many thanks to all our collaborators, colleagues, mentors, friends, and family whose contributions and support made this milestone possible."
+    ],
+    links: []
+  },  
+
+    {
+    id: "news-2026-05-07-uio-invited-seminar",
+    date: "2026-05-07",
+    title: "Invited seminar at the University of Oslo",
+    summary:
+      "Presented an invited seminar at the Department of Physics, University of Oslo, during my research visit to Norway as a visiting scientist.",
+    images: ["/images/news/UiOInvitedSeminar2026.jpg"],
+    details: [
+      "Delivered a seminar titled “Development of the Charge-Exchange Oslo Method and Its Application to Constraining Nuclear Reaction Rates Relevant to the Nucleosynthesis of the Cosmochronometer ⁹²Nb.”",
+      "Presented the development of the CE-Oslo method and its application to determining experimentally constrained nuclear level densities, γ-ray strength functions, and nuclear reaction rates.",
+      "Discussed how these measurements can improve our understanding of the astrophysical production of the short-lived radionuclide ⁹²Nb.",
+      "Engaged in valuable scientific discussions with experimentalists and theorists from the University of Oslo nuclear physics community.",
+      "The insightful questions, feedback, and exchange of ideas provided new perspectives for the continued development of the method and its future applications in nuclear astrophysics.",
+      "Sincere thanks to the Department of Physics at the University of Oslo for the invitation and the warm welcome throughout my research visit.",
+      "Especially grateful to my hosts and collaborators at the Oslo Cyclotron Laboratory and to my Ph.D. supervisor for making this visiting-scientist experience possible.",
+      "Many thanks to all my collaborators, colleagues, mentors, friends, and family for their continued contributions, guidance, and encouragement."
+    ],
+    links: []
+  },
+  
+  {
+    id: "news-2026-05-19-oslo-workshop",
+    date: "2026-05-19",
+    title: "Oral presentation at the 10th Oslo Workshop",
+    summary:
+      "Presented my latest Ph.D. research at the 10th Workshop on Nuclear Level Density and Gamma Strength, held at the University of Oslo, Norway, from May 19–23, 2026.",
+    images: ["/images/news/10thOsloWorkshop.jpg"],
+    details: [
+      "Delivered an oral presentation on my latest Ph.D. research at the 10th Workshop on Nuclear Level Density and Gamma Strength.",
+      "Discussed my work with leading experimentalists and theorists from around the world and received valuable feedback on my ongoing research.",
+      "Exchanged ideas on recent developments in nuclear structure, nuclear astrophysics, and related fields.",
+      "Grateful to my Ph.D. supervisor, collaborators, and everyone who has supported and guided me throughout my research journey.",
+      "The Norwegian Nuclear Research Centre provided travel support that made my participation possible.",
+      "Many thanks to the organizing committee from the Department of Physics at the University of Oslo for organizing another valuable and inspiring workshop."
+    ],
+    links: []
+  },  
+  
+  {
+    id: "news-2026-06-08-92nb-preprint",
+    date: "2026-06-08",
+    title: "Preprint of my second first-author Ph.D. paper now available",
+    summary:
+      "The preprint of my second first-author Ph.D. paper, representing a core chapter of my doctoral thesis, is now publicly available. This work investigates the long-standing puzzle surrounding the origin of the short-lived radionuclide ⁹²Nb in supernova environments.",
+    images: ["/images/news/92Nb-preprint.jpg"],
+    details: [
+      "This study investigates the astrophysical origin of the short-lived radionuclide ⁹²Nb in supernova environments.",
+      "The results improve our understanding of active nucleosynthesis in the Galaxy and the astrophysical origins of material present in the early Solar System.",
+      "The manuscript represents one of the core chapters of my doctoral thesis and is my second first-author Ph.D. paper.",
+      "The manuscript is currently undergoing peer review and is publicly available for feedback and scientific discussion.",
+      "Preprint: https://lnkd.in/ghuJiUd9"
+    ],
+    links: []
+  },
+
   {
     id: "news-2026-01-06-prc-ce-oslo",
     date: "2026-01-06",
@@ -102,7 +196,7 @@ export const news = [
       "Experiment performed at NSCL (predecessor of FRIB) using a light-ion beam in coincidence with the S800 spectrometer and the GRETINA γ-ray detector.",
       "Outlook: extend to (p,n+γ) reactions in inverse kinematics with rare-isotope beams to access broader astrophysical cases where direct measurements are not feasible."
     ],
-    links: []
+    links: [https://doi.org/10.1103/qdsh-ygry]
   },
 
   {
@@ -512,7 +606,7 @@ export const projects = [
     id: "oslomethod",
     title: "Experimental Extraction of Nuclear Statistical Properties using the Oslo Method",
     timeframe: "Published + Ongoing",
-    role: "Graduate Research Assistant (FRIB/MSU) • Visiting Scholar (University of Oslo)",
+    role: "Graduate Research Assistant (FRIB/MSU) • Visiting Scientist (University of Oslo)",
     image: "/images/statistical.jpg",
     tags: ["Oslo Method", "CE-Oslo Method", "NLD", "γSF"],
     summary:
@@ -548,7 +642,7 @@ export const projects = [
     id: "neutron",
     title: "Indirect Constraints on Neutron-Capture Reaction Rates",
     timeframe: "Published + Ongoing",
-    role: "Graduate Research Assistant (FRIB/MSU) • Visiting Scholar (University of Oslo)",
+    role: "Graduate Research Assistant (FRIB/MSU) • Visiting Scientist (University of Oslo)",
     image: "/images/nuclides_chart3.jpg",
     tags: ["Hauser–Feshbach", "TALYS", "NLD", "γSF"],
     summary:
@@ -582,7 +676,7 @@ export const projects = [
     id: "astro",
     title: "Supernova Post-Processing Nucleosynthesis Modeling",
     timeframe: "Ongoing",
-    role: "Graduate Research Assistant (FRIB/MSU) • Visiting Scholar (University of Oslo)",
+    role: "Graduate Research Assistant (FRIB/MSU) • Visiting Scientist (University of Oslo)",
     image: "/images/supernoave.jpg",
     tags: ["NuGrid", "PPN", "WinNet", "p-process"],
     summary:
@@ -615,23 +709,10 @@ export const projects = [
 
 export const publications = [
   {
-    title: "Solving the puzzle of the cosmochronometer 92Nb production using the Oslo method",
-    venue: "TBD",
-    status: "Ongoing",
-    links: []
-  },
-  {
-    title:
-      "Experimental study on supernova neutrino-induced nucleosynthesis of 92Nb",
-    venue: "TBD",
-    status: "Ongoing",
-    links: []
-  },
-  {
-    title: "Charged-current neutrino-208Pb cross sections via the 208Pb(3He,t) charge-exchange reaction",
-    venue: "TBD",
-    status: "Ongoing",
-    links: []
+    title: "Enhanced supernova production of 92Nb and its implications for Galactic Chemical Evolution",
+    venue: "Nature Communications",
+    status: "Under review",
+    links: [{ label: "Nat. Comm.", href:"https://doi.org/10.1103/qdsh-ygry"}https://doi.org/10.21203/rs.3.rs-9939699/v1]
   },
   {
     title: "Extraction of neutron capture cross sections on 92Zr using the charge-exchange Oslo method",
@@ -640,16 +721,29 @@ export const publications = [
     links: [{ label: "Phys. Rev. C 113, 015801", href:"https://doi.org/10.1103/qdsh-ygry"}]
   },
   {
-    title: "Single-nucleon transfer unveils NiCu cycle in astrophysical X-ray bursts",
-    venue: "O'Shea et. al (2026)",
-    status: "Submitted",
-    links: [{ label: "Preprint", href: "https://doi.org/10.21203/rs.3.rs-7660136/v1" }]
+    title: "Single-nucleon transfer on unstable 59Cu probes the NiCu cycle in astrophysical X-ray bursts",
+    venue: "Physical Review Letters",
+    status: "Published",
+    links: [{ label: "Phys. Rev. Lett. 137, 022701", href: "https://doi.org/10.1103/gbbj-hpqk" }]
   },
   {
     title: "Determination of proton and neutron contributions to the 0+gs →2+1 excitations in 42Si and 44S using inelastic proton scattering in inverse kinematics and intermediate energy Coulomb excitation",
     venue: "L.A. Riley et al. (2025)",
     status: "Published",
     links: [{ label: "Phys. Rev. C 112, 014331", href:"https://doi.org/10.1103/b8xj-ycqk"}]
+  },
+  {
+    title:
+      "Experimental study on supernova neutrino-induced nucleosynthesis of 92Nb",
+    venue: "TBD",
+    status: "Ongoing (first-author paper)",
+    links: []
+  },
+  {
+    title: "Charged-current neutrino-208Pb cross sections via the 208Pb(3He,t) charge-exchange reaction",
+    venue: "TBD",
+    status: "Ongoing (first-author paper)",
+    links: []
   },
   {
     title: "Construction of an Ionization Chamber to Detect Alpha and Beta Particles",
@@ -684,8 +778,9 @@ export const teaching = [
 
 export const awards = [
   "Galonsky International Travel Award",
-  "Norwegian Nuclear Research Center Scholarship",
+  "Norwegian Nuclear Research Center Fellowships",
   "FRIB Fellowships",
+  "IReNA Travel Grants",
   "Herbert T. Graham Scholarship",
   "Graduate School Travel Fellowship",
   "Prof. Lakshman Dissanayake Gold Medal for Excellence in Physics",
