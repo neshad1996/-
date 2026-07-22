@@ -712,7 +712,7 @@ export const publications = [
     title: "Enhanced supernova production of 92Nb and its implications for Galactic Chemical Evolution",
     venue: "Nature Communications",
     status: "Under review",
-    links: [{ label: "Nat. Comm.", href:"https://doi.org/10.1103/qdsh-ygry"}]
+    links: [{ label: "Nat. Comm.", href:"https://www.researchsquare.com/article/rs-9939699/latest"}]
   },
   {
     title: "Extraction of neutron capture cross sections on 92Zr using the charge-exchange Oslo method",
