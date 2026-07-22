@@ -710,7 +710,7 @@ export const projects = [
 export const publications = [
   {
     title: "Enhanced supernova production of 92Nb and its implications for Galactic Chemical Evolution",
-    venue: "Nature Communications",
+    venue: "N.D. Pathirana et. al (2026), Nature Communications",
     status: "Under review",
     links: [{ label: "Nat. Comm.", href:"https://www.researchsquare.com/article/rs-9939699/latest"}]
   },
@@ -722,7 +722,7 @@ export const publications = [
   },
   {
     title: "Single-nucleon transfer on unstable 59Cu probes the NiCu cycle in astrophysical X-ray bursts",
-    venue: "Physical Review Letters",
+    venue: "C. O’Shea et. al (2026)",
     status: "Published",
     links: [{ label: "Phys. Rev. Lett. 137, 022701", href: "https://doi.org/10.1103/gbbj-hpqk" }]
   },
