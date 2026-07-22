@@ -196,7 +196,7 @@ export const news = [
       "Experiment performed at NSCL (predecessor of FRIB) using a light-ion beam in coincidence with the S800 spectrometer and the GRETINA γ-ray detector.",
       "Outlook: extend to (p,n+γ) reactions in inverse kinematics with rare-isotope beams to access broader astrophysical cases where direct measurements are not feasible."
     ],
-    links: [https://doi.org/10.1103/qdsh-ygry]
+    links: []
   },
 
   {
