@@ -128,7 +128,7 @@ export const news = [
 
     {
     id: "news-2026-05-07-uio-invited-seminar",
-    date: "2026-05-07",
+    date: "2025-05-07",
     title: "Invited seminar at the University of Oslo",
     summary:
       "Presented an invited seminar at the Department of Physics, University of Oslo, during my research visit to Norway as a visiting scientist.",
